@@ -7,5 +7,5 @@ def toadstool
 end
 
 def link
-  puts = popular = "It's Dangerous To Go Alone! Take This."
+  puts popular = "It's Dangerous To Go Alone! Take This."
 end
